@@ -1,7 +1,7 @@
 # Zombie Basic Shield 
-Raspberry PI 3 Model A+ compatible shield for Zombie Blackheart Daemon
+Raspberry PI 3 Model A+ compatible shield for Zombie Blackheart Daemon.
 
-Zombie Blackheart Daemon - software part of a Blackheart project
+Zombie Blackheart Daemon - software part of a Blackheart project.
 
 Features:
 - 8 up to 24v 10-bit channels
@@ -17,7 +17,7 @@ Features:
 
 # Schematic for version 1.0.B1
 
-This scheme can be used as a regular port extender for Raspberry PI
+This scheme can be used as a regular port extender for Raspberry PI.
 
 ![preview 2](https://github.com/helimania/zombie_basic/blob/master/zombie.basic.shield.jpg)
 
