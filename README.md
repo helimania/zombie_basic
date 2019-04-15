@@ -1,4 +1,5 @@
-# Zombie Basic Shield for Zombie Blackheart Daemon
+# Zombie Basic Shield 
+Raspberry PI compatible shield for Zombie Blackheart Daemon
 
 
 ![preview 1](https://github.com/helimania/zombie_basic/blob/master/zombie.basic.shield.jpg)
