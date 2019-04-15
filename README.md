@@ -31,4 +31,4 @@ Small examle programm for MCP3008 ADC  https://github.com/owenosborn/MCP3008-Wir
 
 Examle for MCP23017 http://wiringpi.com/extensions/i2c-mcp23008-mcp23017/
 
-Raspberry Pi Tutorial Series: 1-Wire DS18B20 Sensor https://www.waveshare.com/wiki/Raspberry_Pi_Tutorial_Series:_1-Wire_DS18B20_Sensor
+OneWire DS18B20 sensor tutorial https://www.waveshare.com/wiki/Raspberry_Pi_Tutorial_Series:_1-Wire_DS18B20_Sensor
