@@ -1,5 +1,6 @@
 # Zombie Basic Shield 
-Raspberry PI compatible shield for Zombie Blackheart Daemon
+Raspberry PI 3 Model A+ compatible shield for Zombie Blackheart Daemon
+Zombie Blackheart Daemon - software part of a Blackheart project
 
 Features:
 - 8 up to 24v 10-bit channels
