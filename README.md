@@ -6,7 +6,7 @@ Features:
 - 16 up to 24v digital channels
 - 4 ground controlled channels
 - 2 high speed optical isolated channels
-- Real Time CLock
+- Real Time Clock
 - OneWire interface
 
 
