@@ -8,6 +8,7 @@ Features:
 - 2 high speed optical isolated channels
 - Real Time Clock
 - OneWire interface
+- Power supply up to 24V 
 
 
 ![preview 1](https://github.com/helimania/zombie_basic/blob/master/zShield-3d.jpg)
