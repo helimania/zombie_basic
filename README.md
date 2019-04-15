@@ -13,7 +13,7 @@ Features:
 
 ![preview 1](https://github.com/helimania/zombie_basic/blob/master/zShield-3d.jpg)
 
-# Schematic
+# Schematic for version 1.0.B1
 
 This scheme can be used as a regular port extender for Raspberry PI
 
