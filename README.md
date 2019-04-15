@@ -3,6 +3,8 @@ Raspberry PI 3 Model A+ compatible shield for Zombie Blackheart Daemon.
 
 Zombie Blackheart Daemon - software part of a Blackheart project.
 
+![preview 1](https://github.com/helimania/zombie_basic/blob/master/zShield-3d.jpg)
+
 Features:
 - 8 up to 24v 10-bit channels
 - 16 up to 24v digital channels
@@ -11,9 +13,6 @@ Features:
 - Real Time Clock
 - OneWire interface
 - Power supply up to 24V 
-
-
-![preview 1](https://github.com/helimania/zombie_basic/blob/master/zShield-3d.jpg)
 
 # Schematic for version 1.0.B1
 
